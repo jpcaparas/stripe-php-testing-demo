@@ -1,0 +1,13 @@
+{
+    "name": "jpcaparas/stripe-php-testing-demo",
+    "type": "project",
+    "license": "UNLICENSE",
+    "authors": [
+        {
+            "name": "JP Caparas",
+            "email": "jp@jpcaparas.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
